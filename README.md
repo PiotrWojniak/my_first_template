@@ -3,6 +3,7 @@
 Welcome to my first webside.
 This webside was builded as part of Fullstack Web Developer program provided by Code Institut.
 Webside can be checked [here](https://piotrwojniak.github.io/my_first_template/)!
+Responsive design can be view [here](?url=http://www.yoursite.com-/https://piotrwojniak.github.io/my_first_template/)!
 
 ##Project Description
 
