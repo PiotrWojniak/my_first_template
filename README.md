@@ -4,7 +4,7 @@ Welcome to my first webside.
 This webside was builded as part of Fullstack Web Developer program provided by Code Institut.
 Webside can be checked [here](https://piotrwojniak.github.io/my_first_template/)!
 
-<h2><img scr=https://i.imgur.com/Mw0XpdR.jpeg></h2>
+<h2><img scr="https://i.imgur.com/Mw0XpdR.jpeg"></h2>
 
 ## Project Description
 
